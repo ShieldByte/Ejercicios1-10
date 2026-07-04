@@ -1,0 +1,10 @@
+PRINT=1
+PAR_IZQ=2
+PAR_DER=3
+CADENA=4
+PUNTO_COMA=5
+WS=6
+'print'=1
+'('=2
+')'=3
+';'=5
