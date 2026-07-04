@@ -1,0 +1,11 @@
+IF=1
+ID=2
+PAR_DER=3
+PAR_IZQ=4
+MAYOR=5
+NUMBER=6
+WS=7
+'if'=1
+'('=3
+')'=4
+'>'=5
